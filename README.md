@@ -1,6 +1,6 @@
 # Education
 ## 1. Master of Science in Robotics and Autonomous Systems (AI), Arizona State University (August, 2024 - May 2026)
-### Relevant Courses:
+Relevant Courses:
 - RAS 545 Robotic Systems 1 (Dr. Sangram Redkar, Fall 2024)
 - EGR 501 Applied Linear Algebra (Dr. Xi Yu, Fall 2024)
 - STP 598 Topic: Machine Learning and Deep Learning (Dr. Shiwei Lan, Fall 2024)
@@ -15,7 +15,7 @@
 ---
 - CSE 539 Applied Cryptography (Dr. Chenkai Weng)
 ## 2. Bachelor of Technology in Computer Science and Engineering (Bioinformatics), Vellore Institute of Technology, Vellore (July 2019 - April 2023)
-### Relevant Courses:
+Relevant Courses:
 - 
 
 # Professional Experience
