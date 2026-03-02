@@ -16,7 +16,7 @@ Relevant Courses:
 - Spring 2026
   - CSE 539 Applied Cryptography (Dr. Chenkai Weng)
 
-## 2. Bachelor of Technology in Computer Science and Engineering (Bioinformatics), Vellore Institute of Technology, Vellore (July 2019 - April 2023)
+## 2. Bachelor of Technology in Computer Science and Engineering (Bioinformatics), VIT, Vellore (July 2019 - April 2023)
 Relevant Courses:
 
 # Professional Experience
