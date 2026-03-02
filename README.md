@@ -1,8 +1,8 @@
 # BhavyaShah1234.github.io
 
 ## Education
-### - Master of Science in Robotics and Autonomous Systems (AI), Arizona State University (August, 2024 - May 2026)
-Relevant Courses:
+### 1. Master of Science in Robotics and Autonomous Systems (AI), Arizona State University (August, 2024 - May 2026)
+#### Relevant Courses:
 - RAS 545 Robotic Systems 1 (Dr. Sangram Redkar, Fall 2024)
 - EGR 501 Applied Linear Algebra (Dr. Xi Yu, Fall 2024)
 - STP 598 Topic: Machine Learning and Deep Learning (Dr. Shiwei Lan, Fall 2024)
@@ -16,8 +16,8 @@ Relevant Courses:
 - EEE 598 Biomedical Signal Processing and Machine Learning (Dr. Md Mobashir Hasan Shandhi, Fall 2025)
 ---
 - CSE 539 Applied Cryptography (Dr. Chenkai Weng)
-### - Bachelor of Technology in Computer Science and Engineering (Bioinformatics), Vellore Institute of Technology, Vellore (July 2019 - April 2023)
-Relevant Courses:
+### 2. Bachelor of Technology in Computer Science and Engineering (Bioinformatics), Vellore Institute of Technology, Vellore (July 2019 - April 2023)
+#### Relevant Courses:
 - 
 
 ## Professional Experience
